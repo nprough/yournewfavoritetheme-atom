@@ -1,0 +1,16 @@
+{
+  "name": "yournewfavoritetheme-atom",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "author": "Nicholas R Prough",
+  "description": "This IS your new favorite theme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/nprough/yournewfavoritetheme-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
