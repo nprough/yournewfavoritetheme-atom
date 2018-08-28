@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/nprough/yournewfavoritetheme-atom",
+  "repository": "https://github.com/nprough/yournewfavoritetheme-atom.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
