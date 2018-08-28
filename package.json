@@ -1,18 +1,18 @@
 {
   "name": "yournewfavoritetheme",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "This IS your new favorite theme.",
   "keywords": [
     "syntax",
     "theme"
   ],
   "repository": {
-      "type": "git",
-      "url": "https://github.com/nprough/yournewfavoritetheme-atom"
+    "type": "git",
+    "url": "https://github.com/nprough/yournewfavoritetheme-atom"
   },
   "bugs": {
-      "url": "https://github.com/nprough/yournewfavoritetheme-atom"
+    "url": "https://github.com/nprough/yournewfavoritetheme-atom"
   },
   "license": "MIT",
   "engines": {
